@@ -1,9 +1,23 @@
 # CAPSTONE-PROJECT
 ---
-## Capstone Sales and Customer Analysis
+## Project Title: Capstone Sales and Customer Analysis
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
 
 ### Project Overview : Capstone is a store with varieties of Products available for their customers.
-
+ 
 ### Data Sources: Data was from the Sales and Customers csv of the Store.
 
 ### Tools Used
@@ -32,14 +46,22 @@
  - Merging and Appending Tables
  - Datas that were Duplicated were all cleaned up as all duplicates were removed.
 
-### Explanatory Data Analysis
+### Exploratory Data Analysis
 EDA involved the exploring of the Data to answernecessary questions about the Datas like;
 - What is overall Sales Trend
 - Which product sell most
 - What is the highest selling product
 - Which region have the highest improvement
 
-###
+### Data Analysis
+---
+This is where we use ines of code and DAX expressions to analyse data.
+
+```SQL
+Select * from [dbo].[Capstone Sales.xlsx2]
+```
+
+### Data Visualization
 
 
     
