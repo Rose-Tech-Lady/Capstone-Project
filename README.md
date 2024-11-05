@@ -64,5 +64,10 @@ Select * from [dbo].[Capstone Sales.xlsx2]
 ### Data Visualization
 
 
-    
+![Screenshot 2024-11-05 192115](https://github.com/user-attachments/assets/de1f3970-be6e-402c-bf26-3617e7bfb0c5)
 
+
+![Screenshot 2024-11-05 192028](https://github.com/user-attachments/assets/571e406e-aaa2-4822-9053-6d7b5e590991)
+
+
+![Screenshot 2024-11-05 191941](https://github.com/user-attachments/assets/59f825cb-482c-444d-a090-d3af3ce780ce)
