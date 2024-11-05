@@ -55,7 +55,7 @@ EDA involved the exploring of the Data to answernecessary questions about the Da
 
 ### Data Analysis
 ---
-This is where we use ines of code and DAX expressions to analyse data.
+This is where we use lines of code and DAX expressions to analyse data.
 
 ```SQL
 Select * from [dbo].[Capstone Sales.xlsx2]
